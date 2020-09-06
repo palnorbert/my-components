@@ -1,0 +1,1 @@
+This is a simple footer where the sticky footer problem has been solved with absolute positioning.

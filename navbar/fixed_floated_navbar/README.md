@@ -1,0 +1,1 @@
+This is a fixed floated navbar, with button hover effects. This page is also responsive and can be opened from mobiles, iPads and PCs as well.

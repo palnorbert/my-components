@@ -1,0 +1,1 @@
+This is a stylish blogheader which cover the whole opening screen with an image.

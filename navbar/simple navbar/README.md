@@ -1,0 +1,1 @@
+This is a simple navbar with button hover effects and responsive content size.
